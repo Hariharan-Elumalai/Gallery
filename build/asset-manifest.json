@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12d93064.css",
+    "main.js": "/static/js/main.0a7a9e9e.js",
+    "static/media/Milky Way.jpg": "/static/media/Milky Way.9edd11ea9b1fff20206b.jpg",
+    "static/media/WindMill.jpg": "/static/media/WindMill.4bf56ce57e749b3d0da2.jpg",
+    "static/media/Valley.jpg": "/static/media/Valley.34e827ea081b363f0367.jpg",
+    "static/media/Snowy Biome.jpg": "/static/media/Snowy Biome.06e01a68e18d3a370f4b.jpg",
+    "static/media/River.jpg": "/static/media/River.7e3b1ce4b5417fed55aa.jpg",
+    "static/media/FarLand.jpg": "/static/media/FarLand.78e843b1155e7b8aba14.jpg",
+    "static/media/Beach.jpg": "/static/media/Beach.dbada0132a82955179ab.jpg",
+    "static/media/Coral.jpg": "/static/media/Coral.e443fef4641dd9ee70a2.jpg",
+    "static/media/Northen Lights.jpg": "/static/media/Northen Lights.0d89d9b584904fce43be.jpg",
+    "index.html": "/index.html",
+    "main.12d93064.css.map": "/static/css/main.12d93064.css.map",
+    "main.0a7a9e9e.js.map": "/static/js/main.0a7a9e9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12d93064.css",
+    "static/js/main.0a7a9e9e.js"
+  ]
+}
